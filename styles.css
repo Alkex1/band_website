@@ -1,3 +1,40 @@
-h1 {
-    color: rgb(28, 30, 185);
+html {
+    height: 100%;
 }
+
+h1 {
+    color: rgba(231, 83, 15, 0.801);
+    font-size: 40px;
+    text-align: center;
+}
+
+.hometxt {
+    color: rgb(139, 0, 12);
+    text-align: center;
+}
+.nav:hover {
+    color: greenyellow;
+}
+
+body {
+    height: 100%;
+    background-color: rgba(223, 154, 5, 0.815);
+}
+
+
+.imgmain {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) */
+}
+
+.img1 {
+    width: 400px;
+    height: 350;
+}
+
